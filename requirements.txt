@@ -4,6 +4,6 @@ numpy
 scikit-learn
 tensorboard
 matplotlib
-streamlit
+streamlit==1.24.0
 protobuf==3.20.3
 altair>=5.0.0
